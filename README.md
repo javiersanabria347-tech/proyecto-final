@@ -2,6 +2,8 @@
 
 Página sobre la historia de las computadoras con una línea del tiempo que abre experiencias web interactivas.
 
+🌐 **Ver la página web:** [Máquinas del tiempo](https://javiersanabria347-tech.github.io/proyecto-final/)
+
 ## Cómo abrir
 
 Abre `index.html` en un navegador para recorrer la cronología y leer el contenido. La sección de Freedoom cambia según el dispositivo:
